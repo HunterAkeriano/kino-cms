@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkkino_cms"]=self["webpackChunkkino_cms"]||[]).push([[443],{837:function(n,c,r){r.r(c),r.d(c,{default:function(){return o}});var s=r(252);const t={class:"about"};function u(n,c){return(0,s.wg)(),(0,s.iD)("div",t)}var e=r(744);const a={},i=(0,e.Z)(a,[["render",u]]);var o=i}}]);
+//# sourceMappingURL=about.cd8629ef.js.map
