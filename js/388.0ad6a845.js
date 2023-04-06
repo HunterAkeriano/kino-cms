@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkkino_cms"]=self["webpackChunkkino_cms"]||[]).push([[388],{388:function(n,c,e){e.r(c),e.d(c,{default:function(){return k}});var r=e(252);const s={class:"name"},u=(0,r._)("h1",null,"Я первая страница админки",-1),t=[u];function a(n,c,e,u,a,i){return(0,r.wg)(),(0,r.iD)("div",s,t)}var i={},o=e(744);const f=(0,o.Z)(i,[["render",a]]);var k=f}}]);
+//# sourceMappingURL=388.0ad6a845.js.map
