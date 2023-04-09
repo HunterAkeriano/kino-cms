@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkkino_cms"]=self["webpackChunkkino_cms"]||[]).push([[328],{912:function(n,t,e){e.r(t),e.d(t,{default:function(){return a}});var r=e(252);function u(n,t,e,u,c,i){return(0,r.wg)(),(0,r.iD)("h2",null,"Матерями грузии по привету")}var c={name:"AdminStatistic"},i=e(744);const s=(0,i.Z)(c,[["render",u]]);var a=s}}]);
-//# sourceMappingURL=admin.f4c0edaa.js.map
