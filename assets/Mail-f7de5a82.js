@@ -1,1 +1,0 @@
-import{_ as e,o as t,b as o}from"./index-4fee3c03.js";const n={mounted(){document.title="Admin | Рассылка"}};function c(r,s,a,_,l,p){return t(),o("h2",null,"Рассылка")}const i=e(n,[["render",c]]);export{i as default};

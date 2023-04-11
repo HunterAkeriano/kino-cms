@@ -1,1 +1,0 @@
-import{_ as e,o as t,b as n}from"./index-4fee3c03.js";const o={mounted(){document.title="Admin | Баннера"}};function c(r,s,a,_,p,d){return t(),n("h2",null,"Баннера")}const m=e(o,[["render",c]]);export{m as default};

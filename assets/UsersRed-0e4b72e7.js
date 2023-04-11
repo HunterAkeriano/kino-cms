@@ -1,1 +1,0 @@
-import{_ as e,o as t,b as o}from"./index-4fee3c03.js";const n={mounted(){document.title="Admin | Страницы - Пользователи Редактирование"}};function s(c,r,a,_,d,p){return t(),o("h2",null,"Редактирование пользователей")}const m=e(n,[["render",s]]);export{m as default};
