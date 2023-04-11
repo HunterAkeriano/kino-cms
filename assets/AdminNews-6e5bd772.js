@@ -1,0 +1,1 @@
+import{_ as e,o as t,f as n}from"./index-dd1580ff.js";const o={mounted(){document.title="Admin | Новости"}};function c(s,r,a,_,d,m){return t(),n("h2",null,"Новости")}const f=e(o,[["render",c]]);export{f as default};

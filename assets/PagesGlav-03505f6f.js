@@ -1,0 +1,1 @@
+import{_ as e,o as t,f as o}from"./index-dd1580ff.js";const n={mounted(){document.title="Admin | Страницы - Главная"}};function c(s,a,r,_,l,p){return t(),o("h2",null,"Главная страница")}const f=e(n,[["render",c]]);export{f as default};

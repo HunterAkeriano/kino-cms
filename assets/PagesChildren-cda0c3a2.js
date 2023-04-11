@@ -1,1 +1,0 @@
-import{_ as e,o as t,f as n}from"./index-5be20ca4.js";const o={mounted(){document.title="Admin | Страницы - Дети"}};function c(r,s,a,_,d,l){return t(),n("h2",null,"Дети")}const f=e(o,[["render",c]]);export{f as default};

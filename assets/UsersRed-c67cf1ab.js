@@ -1,0 +1,1 @@
+import{_ as e,o as t,f as o}from"./index-dd1580ff.js";const n={mounted(){document.title="Admin | Страницы - Пользователи Редактирование"}};function s(c,r,a,_,d,p){return t(),o("h2",null,"Редактирование пользователей")}const l=e(n,[["render",s]]);export{l as default};
