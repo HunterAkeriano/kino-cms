@@ -1,1 +1,0 @@
-import{_ as e,o as t,f as o}from"./index-dd1580ff.js";const n={mounted(){document.title="Admin | Страницы - Реклама"}};function c(a,r,s,_,l,m){return t(),o("h2",null,"реклама")}const d=e(n,[["render",c]]);export{d as default};

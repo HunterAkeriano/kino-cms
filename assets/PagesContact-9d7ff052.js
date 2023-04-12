@@ -1,1 +1,0 @@
-import{_ as t,o as e,f as o}from"./index-dd1580ff.js";const n={mounted(){document.title="Admin | Страницы - Контакты"}};function c(s,a,r,_,p,d){return e(),o("h2",null,"Контакты")}const l=t(n,[["render",c]]);export{l as default};

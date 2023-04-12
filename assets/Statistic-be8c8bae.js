@@ -1,1 +1,0 @@
-import{_ as t,o as e,f as o}from"./index-dd1580ff.js";const n={mounted(){document.title="Admin | Статистика"}};function c(s,r,a,_,i,p){return e(),o("h2",null,"Статистика")}const f=t(n,[["render",c]]);export{f as default};

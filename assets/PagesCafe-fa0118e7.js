@@ -1,1 +1,0 @@
-import{_ as e,o as t,f as o}from"./index-dd1580ff.js";const n={mounted(){document.title="Admin | Страницы - Кафе/Бар"}};function c(s,a,r,_,f,p){return t(),o("h2",null,"Кафе Бар")}const l=e(n,[["render",c]]);export{l as default};
