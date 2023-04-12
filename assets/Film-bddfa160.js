@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o}from"./index-63294a5a.js";const n={mounted(){document.title="Admin | Фильмы"}};function c(r,s,a,_,l,m){return t(),o("h2",null,"Фильмы")}const d=e(n,[["render",c]]);export{d as default};
