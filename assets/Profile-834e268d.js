@@ -1,1 +1,0 @@
-import{_ as o,r as t,o as s,c as a,e as n,f as c,a as r,d as _}from"./index-0a4fb7d2.js";const d={methods:{}},i={class:"block"},l=r("h2",null,"Я инфа о юзере",-1);function p(f,m,u,h,k,x){const e=t("router-link");return s(),a("div",i,[l,n(e,{to:"/admin/"},{default:c(()=>[_(" Go to Admin ")]),_:1})])}const B=o(d,[["render",p]]);export{B as default};
