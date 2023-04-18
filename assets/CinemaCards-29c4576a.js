@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as n}from"./index-75be84c7.js";const o={mounted(){document.title="Admin | Кинотеатры - Карточка"}};function c(r,s,a,_,d,m){return t(),n("h2",null,"Карточка кинотеатра")}const i=e(o,[["render",c]]);export{i as default};

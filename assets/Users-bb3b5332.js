@@ -1,0 +1,1 @@
+import{_ as e,g as t,i as n}from"./index-86f8b5da.js";const o={mounted(){document.title="Admin | Страницы - Пользователи"}};function s(c,r,a,_,p,d){return t(),n("h2",null,"Пользователи")}const l=e(o,[["render",s]]);export{l as default};
