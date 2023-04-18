@@ -1,1 +1,0 @@
-import{_ as o,H as t,r as n,o as a,c,a as r,b as e}from"./index-2dc2f4b0.js";const _={components:{HeaderClientVue:t}},d={class:"home"},l=e("div",{class:"banner"},[e("h2",null,"Я будущий баннер")],-1);function i(p,u,m,f,h,H){const s=n("HeaderClientVue");return a(),c("div",d,[l,r(s,{class:"header-user"})])}const V=o(_,[["render",i]]);export{V as default};
