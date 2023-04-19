@@ -1,1 +1,0 @@
-import{_ as e,g as t,i as n}from"./index-77690e62.js";const o={mounted(){document.title="Admin | Кинотеатры - Зал"}};function c(a,r,s,_,i,l){return t(),n("h2",null,"Карточка Зала")}const p=e(o,[["render",c]]);export{p as default};

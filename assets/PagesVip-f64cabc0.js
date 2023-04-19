@@ -1,0 +1,1 @@
+import{_ as e,g as t,i as n}from"./index-831274e6.js";const o={mounted(){document.title="Admin | Страницы - VIP"}};function c(s,r,a,p,_,i){return t(),n("h2",null,"VIP")}const l=e(o,[["render",c]]);export{l as default};
