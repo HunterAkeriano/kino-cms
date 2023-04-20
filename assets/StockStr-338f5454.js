@@ -1,0 +1,1 @@
+import{_ as t,i as e,j as o}from"./index-2a53d62c.js";const n={mounted(){document.title="Admin | Акции - Страница"}};function c(r,s,a,_,p,d){return e(),o("h2",null,"Акции страница")}const l=t(n,[["render",c]]);export{l as default};

@@ -1,0 +1,1 @@
+import{_ as e,i as t,j as n}from"./index-2a53d62c.js";const o={mounted(){document.title="Admin | Выбор пользователей"}};function c(r,s,a,_,i,l){return t(),n("h2",null,"Выбор пользователей")}const d=e(o,[["render",c]]);export{d as default};
