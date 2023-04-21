@@ -1,0 +1,1 @@
+import{_ as e,j as t,k as n}from"./index-0d689f83.js";const o={mounted(){document.title="Admin | Страницы - О Кионетеатре"}};function c(s,r,a,_,p,d){return t(),n("h2",null,"О кионтеатре")}const l=e(o,[["render",c]]);export{l as default};
