@@ -1,0 +1,1 @@
+import{_ as e,j as t,k as n}from"./index-1b1f28e3.js";const o={mounted(){document.title="Admin | Страницы"}};function c(s,r,a,_,p,d){return t(),n("h2",null,"Страницы")}const m=e(o,[["render",c]]);export{m as default};
