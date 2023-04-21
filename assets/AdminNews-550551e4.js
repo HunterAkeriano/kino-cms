@@ -1,1 +1,0 @@
-import{_ as e,i as t,j as n}from"./index-daa0b86b.js";const o={mounted(){document.title="Admin | Новости"}};function c(s,r,a,_,d,i){return t(),n("h2",null,"Новости")}const p=e(o,[["render",c]]);export{p as default};
