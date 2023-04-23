@@ -1,0 +1,1 @@
+import{_ as t,j as e,k as o}from"./index-9c8646a4.js";const n={mounted(){document.title="Admin | Акции"}};function c(r,s,a,_,p,d){return e(),o("h2",null,"Акции")}const m=t(n,[["render",c]]);export{m as default};

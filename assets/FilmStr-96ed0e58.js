@@ -1,0 +1,1 @@
+import{_ as t,j as e,k as n}from"./index-9c8646a4.js";const o={mounted(){document.title="Admin | Фильмы - страница"}};function c(r,s,a,_,l,m){return e(),n("h2",null,"Страница фильма")}const d=t(o,[["render",c]]);export{d as default};
