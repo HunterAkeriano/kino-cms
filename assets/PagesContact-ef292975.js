@@ -1,1 +1,0 @@
-import{_ as t,j as e,k as n}from"./index-9c8646a4.js";const o={mounted(){document.title="Admin | Страницы - Контакты"}};function c(s,a,r,_,p,d){return e(),n("h2",null,"Контакты")}const m=t(o,[["render",c]]);export{m as default};

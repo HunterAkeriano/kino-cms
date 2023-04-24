@@ -1,0 +1,1 @@
+import{N as e}from"./index-9d6aea3c.js";const s=e({id:"films",state:()=>({title:"",description:"",trailer:"",selectedItems:{one:!1,two:!1,three:!1},selectedNames:[],ava:[],gallery:[],film:[]})});export{s as f};

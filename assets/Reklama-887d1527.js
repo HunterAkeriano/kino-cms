@@ -1,1 +1,0 @@
-import{_ as e,j as t,k as n}from"./index-9c8646a4.js";const o={mounted(){document.title="Admin | Страницы - Реклама"}};function c(a,r,s,_,l,m){return t(),n("h2",null,"реклама")}const d=e(o,[["render",c]]);export{d as default};
