@@ -1,1 +1,0 @@
-import{_ as e,k as t,l as n}from"./index-d2c2c021.js";const o={mounted(){document.title="Admin | Кинотеатры"}};function c(r,s,a,_,l,p){return t(),n("h3",null,"Кинотеатры")}const i=e(o,[["render",c]]);export{i as default};
