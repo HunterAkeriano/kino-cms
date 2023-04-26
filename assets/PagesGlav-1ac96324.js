@@ -1,0 +1,1 @@
+import{_ as e,k as t,l as n}from"./index-d2c2c021.js";const o={mounted(){document.title="Admin | Страницы - Главная"}};function c(s,a,r,l,_,p){return t(),n("h2",null,"Главная страница")}const m=e(o,[["render",c]]);export{m as default};

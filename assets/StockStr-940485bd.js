@@ -1,1 +1,0 @@
-import{_ as t,k as e,l as o}from"./index-0333c0db.js";const n={mounted(){document.title="Admin | Акции - Страница"}};function c(r,s,a,_,l,p){return e(),o("h2",null,"Акции страница")}const m=t(n,[["render",c]]);export{m as default};

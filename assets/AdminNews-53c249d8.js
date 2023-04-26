@@ -1,1 +1,0 @@
-import{_ as e,k as t,l as n}from"./index-0333c0db.js";const o={mounted(){document.title="Admin | Новости"}};function c(s,r,a,_,d,l){return t(),n("h2",null,"Новости")}const p=e(o,[["render",c]]);export{p as default};

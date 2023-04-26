@@ -1,1 +1,0 @@
-import{_ as t,k as e,l as n}from"./index-0333c0db.js";const o={mounted(){document.title="Admin | Статистика"}};function c(s,r,a,_,i,l){return e(),n("h2",null,"Статистика")}const d=t(o,[["render",c]]);export{d as default};

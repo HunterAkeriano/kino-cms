@@ -1,0 +1,1 @@
+import{_ as e,k as t,l as n}from"./index-d2c2c021.js";const o={mounted(){document.title="Admin | Страницы - Кафе/Бар"}};function c(s,a,r,_,l,p){return t(),n("h2",null,"Кафе Бар")}const f=e(o,[["render",c]]);export{f as default};
