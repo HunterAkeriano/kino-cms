@@ -1,0 +1,1 @@
+import{_ as e,o as t,d as o}from"./index-bdf34df8.js";const n={mounted(){document.title="Admin | Страницы - Пользователи"}};function s(c,r,a,_,d,p){return t(),o("h2",null,"Пользователи")}const m=e(n,[["render",s]]);export{m as default};

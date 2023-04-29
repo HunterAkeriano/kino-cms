@@ -1,0 +1,1 @@
+import{_ as e,o as t,d as o}from"./index-bdf34df8.js";const n={mounted(){document.title="Admin | Страницы - Кафе/Бар"}};function c(s,a,r,_,d,p){return t(),o("h2",null,"Кафе Бар")}const l=e(n,[["render",c]]);export{l as default};
