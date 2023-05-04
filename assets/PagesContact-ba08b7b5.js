@@ -1,1 +1,0 @@
-import{_ as t,o as e,d as o}from"./index-bff362dc.js";const n={mounted(){document.title="Admin | Страницы - Контакты"}};function c(s,a,r,_,d,p){return e(),o("h2",null,"Контакты")}const m=t(n,[["render",c]]);export{m as default};
