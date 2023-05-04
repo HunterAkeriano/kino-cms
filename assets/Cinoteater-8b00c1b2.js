@@ -1,0 +1,1 @@
+import{_ as e,o as t,d as o}from"./index-49d5972d.js";const n={mounted(){document.title="Admin | Кинотеатры"}};function c(r,s,a,_,d,p){return t(),o("h3",null,"Кинотеатры")}const l=e(n,[["render",c]]);export{l as default};
