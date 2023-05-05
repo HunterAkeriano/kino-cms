@@ -1,0 +1,1 @@
+import{_ as t,o as e,d as o}from"./index-95b77ea2.js";const n={mounted(){document.title="Admin | Статистика"}};function c(s,r,a,_,d,i){return e(),o("h2",null,"Статистика")}const l=t(n,[["render",c]]);export{l as default};
