@@ -1,0 +1,1 @@
+import{I as e,f as r,C as a,o as s,d as t}from"./index-6c885156.js";import{a as l}from"./afisha-509c70a9.js";const _={__name:"AfishaCreate",setup(o){return e(),r(),l(),a(null),a(null),(n,f)=>(s(),t("h2",null,"Создание Афиши"))}};export{_ as default};
